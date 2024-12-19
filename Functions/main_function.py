@@ -1,0 +1,5 @@
+
+PAUSE = b"M25\n"
+QUICK_STOP = b"M410\n"
+EMERGENCY_STOP = b"M112\n"
+
